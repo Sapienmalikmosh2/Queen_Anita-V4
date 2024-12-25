@@ -3,11 +3,11 @@ global.owner = [
   ""
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
+global.ownername = "Malikmosh"
 global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
 global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
 global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channeljid = "120363315231436175@newsletter"
+global.channeljid = "256700273834"
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;   // Set to true to automatically read statuses
@@ -30,7 +30,7 @@ global.roles = {
     25: "Legend",
 };
 
-global.sudoUsers = ["2349066528353@s.whatsapp.net", "2348129988915@s.whatsapp.net"]; // Add the JIDs of sudo users
+global.sudoUsers = ["256700273834", "256700273834"]; // Add the JIDs of sudo users
 
 
 
